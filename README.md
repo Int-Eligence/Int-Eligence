@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/this-is-soumya-ghosh" target="blank"><img align="center" src="https://images.app.goo.gl/q2R6wVL7iNZJUJdc7" alt="this-is-soumya-ghosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/this-is-soumya-ghosh" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621274853~hmac=366e4213a9b6dcbe406d5975da048bf9" alt="this-is-soumya-ghosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
