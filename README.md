@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **PHP ,laravel ,Codeigniter ,Vue JS ,Nuxt JS**
 
-- 📫 How to reach me **soumya.intelligence@gmail.com**
+- 📫 How to reach me **soumyaidmail@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
