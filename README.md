@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/i-m-soumya" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u" alt="i-m-soumya" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/i-m-soumya" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="i-m-soumya" height="60" width="60" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
