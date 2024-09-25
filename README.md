@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=int-eligence&label=Profile%20views&color=0e75b6&style=flat" alt="int-eligence" /> </p>
 
-- 💬 Ask me about **Vue JS, Angular JS, Node JS, Express JS, Nuxt JS, PHP, laravel, Codeigniter**
+
 
 
 <h3 align="center">Connect with me:</h3>
